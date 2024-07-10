@@ -35,7 +35,7 @@ Make sure you have the following software installed:
 2. Navigate to the directory
 
    ```bash
-   cd projectname
+   cd <projectname>
    
 3. Install dependencies:
     

@@ -10,7 +10,7 @@ import scala.io.StdIn
 
 
   val bindingServer = Http()
-    .newServerAt("localhost",8085)
+    .newServerAt("localhost",8080)
     .bind(requestHandler)
 
   StdIn.readLine()
