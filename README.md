@@ -30,10 +30,14 @@ Make sure you have the following software installed:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/bookstore-api.git
-   cd bookstore-api
+   git clone https://github.com/codinoverse/akka-http-highLevelApi.git
+
+2. Navigate to the directory
+
+   ```bash
+   cd projectname
    
-2. Install dependencies:
+3. Install dependencies:
     
     ```bash
    sbt update
